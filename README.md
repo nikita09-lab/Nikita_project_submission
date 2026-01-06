@@ -60,7 +60,7 @@ Backend Interface
 
 Modular backend code for loading models, preprocessing, and prediction
 
-🧩 Project Structure
+ Project Structure
 backend/
 │
 ├── app.py                 # Backend entry point
@@ -106,7 +106,26 @@ Backend: Python-based modular backend
 
 Version Control: Git & GitHub
 
-🚀 How to Run the Project
-1️⃣ Clone the Repository
-git clone https://github.com/nikita09-lab/Nikita_project_submission.git
-cd Nikita_project_submission/backend
+ Applications
+
+Predictive Maintenance
+
+Fault Detection & Diagnosis
+
+Remaining Useful Life (RUL) Estimation
+
+Aircraft Engine Health Monitoring
+
+Industrial Asset Management
+
+ Future Enhancements
+
+Integration with real-time sensor streams
+
+REST API / FastAPI interface
+
+Dashboard for health visualization
+
+Remaining Useful Life (RUL) prediction
+
+Deployment using Docker & Cloud services
